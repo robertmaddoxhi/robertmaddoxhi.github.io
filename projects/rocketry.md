@@ -9,7 +9,7 @@ labels:
   - Rockets
   - 3D Modeling
   - Physics
-summary: "The American Rocketry Challenge (Tarc) is the world’s largest rocket contest with nearly 5,000 students nationwide competing each year."
+summary: "The American Rocketry Challenge (TARC) is the world’s largest rocket contest with nearly 5,000 students nationwide competing each year."
 ---
 
 <img class="img-fluid" src="../img/rocketry1.jpg">
@@ -18,6 +18,6 @@ At Mililani High School, our rocketry team took on the TARC Rocket Challenge. Th
 
 <img class="img-fluid" src="../img/rocketry2.jpg">
 
-That money went lots of new equpiment and rocket kits. Since any rockets we lost would be detrimental to the clubs fleet. For the longest time we had no way to replace any of the rockets and equipment.
+That money went to lots of new equpiment and rocket kits. Since any rockets we lost would be detrimental to the clubs fleet. For the longest time we had no way to replace any of the rockets and equipment. Now that we had the funding we could begin working on our TARC rocket. TARC rockets have way higher standards than typical kit rockets. They're much larger and requires custom parts to gain peak performance. We ran simulations and started to 3D print pieces of the body to use. Unfortunately I don't have any pictures but we didn't finish the rocket in time for the official to review it. Although it proved to be a really intensive project that required teammwork, inginuity, and consistency.
 
 <img class="img-fluid" src="../img/rocketry3.jpg">
