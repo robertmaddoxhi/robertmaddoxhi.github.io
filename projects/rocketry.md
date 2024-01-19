@@ -12,6 +12,8 @@ labels:
 summary: "The American Rocketry Challenge (TARC) is the world’s largest rocket contest with nearly 5,000 students nationwide competing each year."
 ---
 
+The American Rocketry Challenge is an important competition for all rocketry clubs. Qualifying for TARC is not easy. Qualification flights are verified by a TARC official and teams have limited attempts for their rocket to complete the specified objectives. Typically this objective involves storing eggs within the body of the rocket then achieving a specified altitude and duration and landing without damaging any of the eggs. These objectives are graded with a score and only the top 100 scoring teams will qualify for teh National Fly-Off held in virginia. 
+
 <img class="img-fluid" src="../img/rocketry1.jpg">
 
 At Mililani High School, our rocketry team took on the TARC Rocket Challenge. There were several struggles that arose with this endeavor. Financing was a huge problem for the Rocketry Club, and resulted in the host teacher paying for most of the expenses out of pocket. As the Treasurer, the Vice President of the club and made a presentation for the principal to propose funding for the club. Thankfully we did get it. 
