@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/suitcasekit1.jpg
+image: img/suitcasekit1-square.jpg
 title: "Suitcase Drumkit"
 date: 2023-10-12
 published: true
