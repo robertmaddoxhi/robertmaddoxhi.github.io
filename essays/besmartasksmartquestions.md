@@ -19,6 +19,8 @@ Every developer shares a common need for assisstance at some point in their care
 
 Ironically, the header of this paragraph can be seen as a "stupid" question. One could Google what a stupid question is and find varying answers. Looking at "What is a "Stupid" question?", it meets a lot of the "stupid" question factors. It could be easily Googled but it also is incredibly vague. A solution to this, would be specificity. "What is a 'Stupid' question" could be changed to "What is a 'Stupid' question in Software Engineering". This change fixes the vagueness of the question. Using this new title in conjunction with thorough research, one could find Eric Steven Raymond's essay on "How To Ask Questions The Smart Way". Let's take a look at an example:
 
+<img class="img-fluid" src="../img/howtoplayaudioinjavausingjavafx.png">
+
 This developer asks a very a vague question and while the body of the question is a bit more in depth, it lacks any real grounds for an attempt. JavaFX is a variation of Java praised for its modern and hardware-accelerated user interface. His problem lies in not being able to find the correct imports to play an mp3 file. He lists the imports used but none of the code. This is a lack of context necessary for the volunteers to answer. It also limits the volunteers to what they can answer because now assumptions need to be made for why he has this issue. This results in answers that are basically redirectories to the documentation of JavaFX as well as a link to a "Possible duplicate" meaning a very similar question has already been asked. His question unfortunately fails both in generality and in effort. 
 
 ## What is a "Smart" question?
