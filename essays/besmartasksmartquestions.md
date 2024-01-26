@@ -25,4 +25,8 @@ This developer asks a very a vague question and while the body of the question i
 
 ## What is a "Smart" question?
 
+As mentioned in the introductory paragraph, the foundational attributes that define a "smart" or "stupid" question are specificity and effort. In which the previous question lacked both. Regarding software engineering, smart questions are imperitive to the efficiency, progress, and collaboration of the programming community. Majority of those answering questions are volunteers. Not only is it morally foul to waste their time but it can also be a waste of your time. "Smart" questions reflect that you as a developer are attempting to form a deeper understanding of your problem and require the aid of others to solve it. "Smart" questions are respectful of others and help maintain professionalism in a learning environment. A solid of [example](https://stackoverflow.com/questions/50192815/map-doesnt-exist-on-observableobject-with-angular-6-0-0-and-rxjs-6-1-0) of this:
+
 <img class="img-fluid" src="../img/mapdoesntexist.png">
+
+Just from this developer's title alone you gain tons of context on his situation. He mentions an object, type, Javascript framework, and library used.
