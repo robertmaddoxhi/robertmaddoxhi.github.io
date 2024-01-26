@@ -9,6 +9,7 @@ labels:
   - StackOverflow
   - Development
 ---
+<img class="img-fluid" src="../img/smvsst.jpg">
 
 ## "Smart" vs "Stupid"
 
