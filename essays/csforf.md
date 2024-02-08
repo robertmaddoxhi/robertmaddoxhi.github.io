@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img class="img-fluid" src="../img/eslint.png">
+<img width="300px" img class="img-fluid" src="../img/eslint.png">
 
 ## What are coding standards?
 Coding standards are a commonly used device by both senior and new-coming developers. 
