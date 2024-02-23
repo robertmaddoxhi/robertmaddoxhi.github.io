@@ -19,6 +19,8 @@ Diving into UI frameworks like Bootstrap 5 can feel like tackling a beast. It's 
 
 Bootstrap 5 is like the Swiss Army knife of these tools. It helps you whip up a website quickly, making sure everything looks good and works well on phones, tablets, and computers without you having to fuss over the details. It's like having a web design expert sitting beside you, handing you all the bits you need, and telling you where they go. Plus, if you get stuck, there's a huge community of Bootstrap users out there ready to help.
 
+<img class="img-fluid" src="../img/Semantic.png">
+
 ## Bootstrap vs. Semantic UI: A Personal Take
 
 Now, if we talk about other frameworks like Semantic UI, it's like comparing different brands of tools. Some might prefer Semantic UI because it's designed to be more human-friendly with its code and names, making it easier to remember and use. It's all about what works best for you and your project. Personally, I've found Bootstrap 5 great for getting projects up and running fast, but I also see the charm in Semantic UI's approach for projects where how the code reads to a human is super important.
