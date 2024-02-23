@@ -19,7 +19,7 @@ Diving into UI frameworks like Bootstrap 5 can feel like tackling a beast. It's 
 
 Bootstrap 5 is like the Swiss Army knife of these tools. It helps you whip up a website quickly, making sure everything looks good and works well on phones, tablets, and computers without you having to fuss over the details. It's like having a web design expert sitting beside you, handing you all the bits you need, and telling you where they go. Plus, if you get stuck, there's a huge community of Bootstrap users out there ready to help.
 
-<img class="img-fluid" src="../img/Semantic.png">
+<img class="img-fluid" src="../img/Semantic.jpg">
 
 ## Bootstrap vs. Semantic UI: A Personal Take
 
