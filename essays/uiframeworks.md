@@ -9,7 +9,7 @@ labels:
   - HTML
   - UI Design
 ---
-<img class="img-fluid" src="../img/bootstrap.png">
+<img width="600px" img class="img-fluid" src="../img/bootstrap.png">
 
 ## Why Bother with UI Frameworks?
 
