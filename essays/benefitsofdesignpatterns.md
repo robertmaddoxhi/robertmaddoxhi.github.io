@@ -25,6 +25,6 @@ As stated previously, design patterns offer simple problem solving and solutions
 
 ## Conclusion
 
-
+In conclusion, the benefits of design patterns in software developement, while seemingly minimal actually provide a multitude of pros that not only affect productivity but also convienence. From my experience in ICS 314 they've served as useful tools for solving recurring problems while also being the foundations of the application that aided in efficient, scalable, and maintainable code. Goind back to the final project, ours is based on digits. While seemingly simple, our entire team had experience with it so it made comprehension very easy. When creating the milestones it made it very convienent to tackle all the code related issues. For us, that meant we could focus less time on the simple structural aspects of the project and focus more on the complex additions we were making. Like our new database, pages, etc. It was nice not having to waste much time on getting the page initially up and running and allowing us to collaborate on the necesarry changes we need to make, instead of initial additions just to get the application started. It felt great having a standardized starting point, and in my opinion allowed us to work more cohesively and efficiently. I think that the final project is a great starter example of pointing out the necessity of design patterns, and going forward into my professional career even if I do not pursue network based applications, I still see design patterns as a very useful means in all developmental projects. 
 
 
