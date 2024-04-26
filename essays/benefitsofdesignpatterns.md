@@ -13,6 +13,6 @@ labels:
 
 ## Design Patterns in 314
 
-In 314, we were introduced to a handful of design patterns for the very first time. Seeing patterns and formats through the default meteor template, bowfolios, digits, as well as a handful of patterns used for the WODs. These patterns were incredibly useful going forward because they could be repurposed for a lot of the experiences going forward. Even being helpful in providing a basis for the final project. Simple aspects like the navbar, sign-in/sign-up, and landing page are useful in almost every application we've made so far and are vital in applications going foward. I can easily see using these designs outside of class for future projects. 
+In 314, we were introduced to a handful of design patterns for the very first time. Seeing patterns and formats through the default meteor template, bowfolios, digits, as well as a handful of patterns used for the WODs. These patterns are incredibly useful going forward because they could be repurposed for a lot of the upcoming experiences. Even being helpful in providing a basis for the final project. Simple aspects like the navbar, sign-in/sign-up, and landing page are useful in almost every application we've made so far and are vital in applications going foward. I can easily see using these designs outside of class for future projects. 
 
 
