@@ -11,6 +11,8 @@ labels:
 ---
 <img class="img-fluid" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*d_lXoGt-EZDRuwg5lW9swg.png">
 
-## "Smart" vs "Stupid"
+## Design Patterns in 314
+
+In 314, we were introduced to a handful of design patterns for the very first time. Seeing patterns and formats through the default meteor template, bowfolios, digits, as well as a handful of patterns used for the WODs. 
 
 
