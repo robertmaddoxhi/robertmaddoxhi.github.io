@@ -9,6 +9,7 @@ labels:
   - Design
   - Development
 ---
+### What are the Benefits of Design Patterns?
 <img class="img-fluid" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*d_lXoGt-EZDRuwg5lW9swg.png">
 
 ## Design Patterns in 314
