@@ -17,5 +17,7 @@ In ICS 314, we were introduced to a handful of design patterns for the very firs
 
 <img width="600px" img class="img-fluid" src="../img/Screenshot 2024-04-25 222822.png">
 
+## How do they Benefit Developers?
 
+As stated previously, design patterns offer simple problem solving and solutions during the development and app creation process. Being that they essentially starting blueprints to follow that vastly improve the efficiency and reliability of a developer's code. Let's give a common example, working with a team or even multiple teams. If you assigned guidelines for the teams to follow, they will probably all follow them, but there is a low chance that they will follow it the same way. This is especially problematic if each team has a page or pages of the application to work on. Layouts, components, and styles may differ massively. Causing inconsistencies in the code that would prevent teams from being able to work on anything outside their assigned pages. Or even worse an incosistent experience for the user. By utilizing design patterns, developers can share a structure that prevents these seemingly subtle differences from evolving into massive inconsistencies across the board that negatively impact user experience. A common pattern like the Factory Pattern is a great simple example of this. There's no need to reinvent the wheel so if everyone assigned to the project is given the guidelines to implement some aspect of user database, they can all reference the same design pattern so as to not have too varying aspects of database. 
 
