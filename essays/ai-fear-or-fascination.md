@@ -28,27 +28,28 @@ I have used AI in class this semester in the following areas:
 
   5. Final project - Honestly I haven't used ChatGPT in the slightest for the final project. I think that any of the issues that have arised within the final project are beyond ChatGPT's abilities. This goes back to it's inabilities to comprehend visual elements which the Final Project for this class mostly consists of. Even for the non-visual elements, if I really needed help I just referred to previous assignments and experiences. For the sake of this project I don't see myself finding any usefulness in ChatGPT. 
 
-  6. Learning a concept / tutorial - 
+  6. Learning a concept / tutorial - ChatGPT was actually pretty helpful in this regard. Specifically for learning how a lot of the HTML components and elements worked. For example, when I was learning about the header and footer elements. I simply asked it how they worked and what it would look like in an example. It then gave me a small description of what they were and how they're used then provided an example block of code that while simple really helped illustrate how to write it out. 
 
-  7. Answering a question in class or in Discord
+  7. Answering a question in class or in Discord - For the discussions it was kind of a no brainer just to ask ChatGPT the discussion questions. While I never really used ChatGPT as a basis for personally answering the question it was interesting to see how it answered questions. Typically its answers were non-biased and provided a two sided perspective to display both sides of an answer. There were some instances where it was insistent on its correctness while the professor stated that the returned answer was incorrect. I was unable to find the exact prompt in the ChatGPT history but I do remember that during the discussion the professor discussed how AIs like ChatGPT will not be in entire agreement with the status quo of a community. In our case it was a question regarding an aspect of programming that programmers had a different opinion on than ChatGPT.
 
-  8. Asking or answering a smart-question
+  8. Asking or answering a smart-question - Asking or answering smart questions to me never seemed like a process to get ChatGPT involved with. I suppose you could give it the parameters provided on the ICS website and then have it answer or verify a question to ensure that it follows the parameters. When in doubt I just referred back to these parameters to make sure I was following the process to answer or ask smart questions. It didn't take long for me to understand how to properly ask or answer these questions, mainly because I was already familiar with expectations when asking or answering on a support board and the specifics required within the question. For that reason I didn't utilize ChatGPT in those instances because I was already comfortable exercising smart questions and answers. 
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  9. Coding example - Being able to write examples of codes was very helpful in the class. Similar to learning new concepts, it being able to provide coding examples aided in my comprehension of new functions and libaries. 
 
-  10. Explaining code
+  10. Explaining code - ChatGPT was pretty helpful throughout the semester when it came to explaining blocks of code. Specifically I needed help explaining a function that utilized .pluck, .uniq, and .value . After asking how to implement that function it provided a breakdown of the implementation that explanined all three functions. 
 
-  11. Writing code
+  11. Writing code - Similar to above, when I asked it to help explain a function that utilied those three functions it actually wrote a block of code that utilized those functions. I've used it similarly in that regard when I needed help completing or fixing errors in functions.
 
-  12. Documenting code
+  12. Documenting code - I never ended up using ChatGPT to document my code. Usually it felt like it didn't know how to properly document and I ended up documenting everything myself. While it does have a uniform method of documentation, it was usually very simple and lacked enough depth for others to understand what the comments and other documentations mean.
 
-  13. Quality assurance 
+  13. Quality assurance - This goes back to my previously listed usage of syntax correction. To expand a little upon that would be checking for any redundancy, to make sure my code is optimal in its operations. While I did have a few instance where I wanted it to verify that my code had no repeats and ran optimally I didn't check it every time. 
 
-  14. Other uses in ICS 314 not listed above
+  14. Other uses in ICS 314 not listed above - No questions were asked or utilized outside of the above use cases. 
 
 
 ### III. Impact on Learning and Understanding:
 
+Having access to something that could always provide answers definitely aided in my learning throughout the course. Especially when I could ask it code specific questions that were related to assignments in the class. It was confusing looking at support boards that asked questions that only slightly mirrored my situation, so the answers were either slightly helpful or not at all. ChatGPT for the most part could answer any questions that I had regarding subjects throughout the course. 
 
 ### IV. Practical Applications:
 
