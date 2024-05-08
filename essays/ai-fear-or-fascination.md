@@ -65,6 +65,8 @@ I don't think that we'll see AI replacing professors or teachers at all. Being a
 
 ### VII. Future Considerations:
 
-AI can still be a useful for students. As previously stated, when students need to seek aid but potentially don't have the time to attend any after hour programs it can a helpful tutor supplement. Especially when the question may seem menial. 
+AI can still be a useful for students. As previously stated, when students need to seek aid but potentially don't have the time to attend any after hour programs it can a helpful tutor supplement. Especially when the question may seem menial. I think AI will get better at aiding in tutoring students because it can provide tailor made responses and explanations to help garner understandings of concepts similar to how teachers create methods. The ideal situation would be to utilize both teachers and AI to maximize a students success in a learning environment. 
 
 ### VIII. Conclusion:
+
+This course taught me that while AI can offer substantial help in specific areas like debugging, code verification, and problem solving, it cannot replace humans in the learning environment or just the coding environment in general. It has chances to fail in design and complex decision making where humans simply best it. While these may seem like negatives I think it is a good balanced relationship to have. At the end of the day it should be used as a tool and should not replace the special abilities only a human can make. In the classroom setting it is a great supplement that can help students cement ideas prevalent throughout the class. With that said, because AI is beginning to become a clutch for some classes it's important that awareness is spread on how to effectively utilize AI to not only maximize its potential, but allow growth within the student. 
