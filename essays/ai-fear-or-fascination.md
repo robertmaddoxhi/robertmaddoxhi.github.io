@@ -12,7 +12,7 @@ labels:
 ---
 
 
-<img width="600px" img class="img-fluid" src="../img/prof.jpg">
+<img width="300px" img class="img-fluid" src="../img/prof.jpg">
 
 
 ### I. Introduction
