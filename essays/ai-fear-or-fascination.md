@@ -11,6 +11,10 @@ labels:
   - Programming
 ---
 
+
+<img width="600px" img class="img-fluid" src="../img/prof.jpg">
+
+
 ### I. Introduction
 
 Artificial Intelligence has become an incredibly controversial tool in the technological landscape. Difficulties arise in the morality of using such a tool. Where some compare it to any other software assistant others heavily argue against its use. Regardless of stance it's a piece of modern techonology that has increasingly become an integral part of our daily lives. As AI continues to evolve and integrate into various aspects of modern day products and software, its ethical implications are scrutinized more than ever. Most arugably the fear of AI being used as a replacement to people due to its incredibly cheap costs. It's comprehensive abilities are truly impressive and prove that it has its usefulness.
