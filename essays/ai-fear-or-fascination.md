@@ -53,14 +53,18 @@ Having access to something that could always provide answers definitely aided in
 
 ### IV. Practical Applications:
 
+In the context of this class, AI has many practical applications. Like I said before, it has uses for verifying code, aiding in problem solving, or just outright completing the code for the user. Outside of that, there are still so many more uses. An incredibly common application that is used by almost every person in the world is the AI algorithms behind social media. Regardless of what media you use, there's always an algorithm determining what should be show to the user based on interests, age, race, etc. Music is another interesting facet that AI has started growing within. Mixing for example can be done with just AI, while the questions of ethics do spur as a result, I'd argue that for newcoming musicians, AI can aid in their beginning productions. 
 
 ### V. Challenges and Opportunities:
 
+Just like most things, AI is not perfect. This class definitely illustrated that towards the latter half when it came to website design. While the code that lacks typically visual elements is no issue for coding AI assistants, anything that involves any kind of graphic design poses a struggle to AI services. Simply because it's an entirely new media that AI is not sophisticated enough to recreate. While we have image creation AI, the actual programming that is required for the visual elements is still very simplistic. I don't doubt that it will eventually catch up to being able to accurately reproduce the coding behind websites. Just looking at AI music producers, in 2019 the music sounded inhuman. You couldn't fool anyone that it was made by real people. Nowadays it can produce scarily accurate music that could confuse audiences. 
 
 ### VI. Comparative Analysis:
 
+I don't think that we'll see AI replacing professors or teachers at all. Being able to feel comfortable in the learning environment is vital to proper retention and knowledge growth. While AI can be a helpful aid in learning key concepts and ideas of the course, it cannot create a properly structured curriculum that only a human can tailor for the students. For example, an AI may try to follow the curriculum to a tee to ensure that the schedule is completed on time. A teacher on the other hand might provide extra credit to make up for a rushed week or drop some assignments to accomodate for any events.
 
 ### VII. Future Considerations:
 
+AI can still be a useful for students. As previously stated, when students need to seek aid but potentially don't have the time to attend any after hour programs it can a helpful tutor supplement. Especially when the question may seem menial. 
 
 ### VIII. Conclusion:
