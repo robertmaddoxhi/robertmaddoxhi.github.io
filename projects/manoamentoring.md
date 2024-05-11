@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/suitcasekit1-square.jpg
+image: img/Manoa.png
 title: "Manoa Mentoring"
 date: 2024-5-10
 published: true
