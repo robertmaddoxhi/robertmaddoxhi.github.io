@@ -11,9 +11,9 @@ labels:
   - Programming
 ---
 
-
+<p align="center">
 <img width="300px" img class="img-fluid" src="../img/prof.jpg">
-
+</p>
 
 ### I. Introduction
 
