@@ -12,4 +12,6 @@ labels:
 summary: "Manoa Mentoring, aims to bring together students and mentors."
 ---
 
+<p align="center">
 <img width="500px" class="img-fluid" src="../img/valley.jpg">
+</p>
