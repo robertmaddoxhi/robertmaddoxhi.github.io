@@ -24,4 +24,5 @@ CyberPatriot is a competition for youth teams to find and fix cybersecurity vuln
 <img width="300px" class="img-fluid" src="../img/cyberpatriot2.jpg">
 </p>
 
+## My Experience
 I was a member of the CyberPatriot team and competed in the CyberPatriot Competition. I had to collaborate with a team to resolve issues in various operating systems like Windows 10, Windows 10 Server, Linux, and Cisco networking. I was specifically responsible for the Windows 10 Server and with our team's efforts actually made it to National Finals but lost the final round. Our team consisted of 4 people and we all created checklists to follow to aid our effectiveness. It was a really exciting experience and pushed my critical thinking skills and my ability to work under pressure. Our performance was a result of lots of meetings and study sessions. As teammates we pushed each other to doing the best that we could. I spent hours doing the practice scenarios and building my checklist for the competition. 
