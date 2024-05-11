@@ -13,5 +13,7 @@ summary: "Manoa Mentoring, aims to bring together students and mentors."
 ---
 
 <p align="center">
-<img width="500px" class="img-fluid" src="../img/valley.jpg">
+<img width="500px" class="img-fluid" src="../img/site.png">
 </p>
+
+## Manoa Mentoring
