@@ -10,6 +10,10 @@ labels:
   - Development
 ---
 
+<p align="center" >
+<img width="300px" img class="img-fluid" src="../img/se.png">
+</p>
+
 Truthfully ICS 314 felt like my first real experience with project based development. After 3 years of introductory classes and learning the languages, I was finally putting my knowledge and experience to the test by partipicating in software projects with a team for the first time. I've done amateur stuff with friends before but this class offered a truly new experience and a pivotal stepping stone for my career in the field. This is the type of experience I would expect from early internships and programs and I think it was important for me to experience overall.
 
 <p align="center" >
