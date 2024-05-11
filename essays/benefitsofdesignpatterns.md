@@ -9,7 +9,7 @@ labels:
   - Design
   - Development
 ---
-<img align="center" class="img-fluid" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*d_lXoGt-EZDRuwg5lW9swg.png">
+<img align="center" width="500px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*d_lXoGt-EZDRuwg5lW9swg.png">
 
 ## Design Patterns in 314
 
