@@ -17,6 +17,7 @@ summary: "CyberPatriot is a national youth cyber education program created in th
 <img width="300px" class="img-fluid" src="../img/cyberpatriot1.jpg">
 </p>
 
+### The Rules
 CyberPatriot is a competition for youth teams to find and fix cybersecurity vulnerabilities in virtual operating systems. Members are forced to use a proprietary competition system, teams are scored on how secure they make the system. It was created by the Air Force Association and granted lots of opportunities for students to break into the NSA or contract-based cybersecurity careers. It being pushed as a competition helped engage youth to adopt leadership, communication, and cooperation skills among competitors.
 
 <p align="center">
