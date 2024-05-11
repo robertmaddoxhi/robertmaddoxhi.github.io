@@ -4,7 +4,7 @@ type: essay
 title: "Thoughts on Javascript and my Goals for it"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
-published: true
+published: false
 labels:
   - Engineering
 ---
