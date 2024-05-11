@@ -34,6 +34,9 @@ Creating an administrative page that allowed moderation for users and sessions.
 <p align="center">
 <img width="900px" class="img-fluid" src="../img/admin.png">
 </p>
+<p align="center">
+Admin Page
+</p>
 
 Creating some of the data structures used across the site like the sessions structure which is frequently used. I included a snippet of the proptype declarations for the structure, very straightforward but also necesarry for the organization and maintenance down the line. I also ensured that it was properly published and functional.
 
