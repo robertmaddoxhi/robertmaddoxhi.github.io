@@ -25,3 +25,50 @@ Manoa Mentoring is a University of Hawaii centric application that allows studen
 [Source Code](https://github.com/manoa-mentoring)
 
 [Project Page](https://manoa-mentoring.github.io/)
+
+## My Role in the Process
+There were 3 primary stages in the development of our project. They were broken down into 3 milestones. Across those three miletones some of my main contributions included:
+
+Creating am administrative page that allowed moderation for users and sessions. 
+
+Creating some of the data structures used across the site like the sessions structure which is frequently used. I included a snippet of the proptype declarations for the structure, very straightforward but also necesarry for the organization and maintenance down the line. I also ensured that it was properly published and functional.
+
+~~~
+StudySession.propTypes = {
+  studySession: PropTypes.shape({
+    name: PropTypes.string,
+    subject: PropTypes.string,
+    location: PropTypes.string,
+    hostName: PropTypes.string,
+    dateStart: PropTypes.instanceOf(Date),
+    dateEnd: PropTypes.instanceOf(Date),
+    image: PropTypes.string,
+    description: PropTypes.string,
+    owner: PropTypes.string,
+    joinedUsers: PropTypes.arrayOf(PropTypes.string).isRequired,
+    _id: PropTypes.string,
+  }).isRequired,
+  onDelete: PropTypes.func.isRequired, // Function to handle deletion
+};
+~~~
+
+During out testing phases, I created the tests for the admin page, sign in, and sign up. As well as linking all of my peers tests together to ensure that the site passed everyone's individuals tests. These tests ensured that every function offered by the site worked and was recreatable regardless of credentials. Here's a snippet of the admin test.
+
+~~~
+class ListcontactsadminPage {
+  constructor() {
+    this.pageId = '#list-stuff-admin-nav';
+    this.pageSelector = Selector(this.pageId);
+  }
+
+  /** Asserts that this page is currently displayed. */
+  async isDisplayed(testController) {
+    await testController.expect(this.pageSelector.exists).ok();
+  }
+}
+~~~
+
+
+
+
+
