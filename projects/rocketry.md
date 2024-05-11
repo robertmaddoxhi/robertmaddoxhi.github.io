@@ -4,7 +4,7 @@ type: project
 image: img/rocketry1-square.jpg
 title: "TARC Rocket Challenge"
 date: 2021-10-02
-published: true
+published: false
 labels:
   - Rockets
   - 3D Modeling
