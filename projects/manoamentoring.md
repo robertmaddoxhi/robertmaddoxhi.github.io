@@ -14,7 +14,8 @@ summary: "Manoa Mentoring, aims to bring together students and mentors."
 
 <p align="center">
 <img width="900px" class="img-fluid" src="../img/site.png">
-  
+</p>
+<p align="center">
 Landing Page
 </p>
 
