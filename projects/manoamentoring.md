@@ -29,7 +29,11 @@ Manoa Mentoring is a University of Hawaii centric application that allows studen
 ## My Role in the Process
 There were 3 primary stages in the development of our project. They were broken down into 3 milestones. Across those three miletones some of my main contributions included:
 
-Creating am administrative page that allowed moderation for users and sessions. 
+Creating an administrative page that allowed moderation for users and sessions. 
+
+<p align="center">
+<img width="900px" class="img-fluid" src="../img/admin.png">
+</p>
 
 Creating some of the data structures used across the site like the sessions structure which is frequently used. I included a snippet of the proptype declarations for the structure, very straightforward but also necesarry for the organization and maintenance down the line. I also ensured that it was properly published and functional.
 
@@ -68,7 +72,8 @@ class ListcontactsadminPage {
 }
 ~~~
 
-
+## The Experience
+Managing a project is not a simple task. A lot of time spent wasn't necessarily even coding related. We had to host meetings and calls just to discuss plans and how to map out our ideas and brainstorms. As previously mentioned, we had 3 phases of development. Each phase required meticulous planning and collaboration between one another. We used Discord frequently to communicate with one another presenting any issues, concerns, or ideas we had for the project. For this project I also learned a lot about time management and how important efficient pacing is for completing the project on schedule. Our process included using Github's issue feature, and we would use the time estimation figure when deciding who got what issue. This played a big role in how to pace our development and is something I plan on utilizing going forward, seeing how important it was to our time management. Thankfully communication was no issue within our group and I found it extremely important that every was being vocal and engaging with one another to not only promote a friendly environment but also to ensure that we were all on the same page. 
 
 
 
